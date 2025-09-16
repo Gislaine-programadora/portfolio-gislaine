@@ -2,10 +2,8 @@
 
 Este é o meu portfólio online desenvolvido em **HTML + TailwindCSS**, com **dark mode** e **animações modernas**.  
 
-
-# 🌐 Portfólio - Gislaine Programadora
-
-Este é o meu portfólio online desenvolvido em **HTML + TailwindCSS**, com **dark mode** e **animações modernas**.  
+#  🔗 Link para acessar a pagina:
+  
 Você pode acessar a versão online aqui: [🌐 Ver Portfólio](https://portfolio-gislaine.vercel.app/)
 
 
